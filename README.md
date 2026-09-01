@@ -26,6 +26,4 @@ También: Clean Architecture
 
 ---
 
-### Actividad
-
 <img src="https://raw.githubusercontent.com/DanielGB230/DanielGB230/output/github-snake-dark.svg" alt="Snake animation" />
